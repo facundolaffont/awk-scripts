@@ -1,4 +1,4 @@
-# 01.awk: print everything that doesn't match with the regular expression contained in variable 'var'.
-# When calling this script, store the regular expression using the awk parameter -v.
+# 1.awk.
+# Prints everything except what is matched against the regular expression stored in a variable called 'regex'.
 
-$0 !~ var
+$0 !~ regex
