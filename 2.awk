@@ -1,8 +1,5 @@
 # 2.awk.
-# Prints the sum of files sizes in a folder, on Linux.
-
-# To make it work, copy this file into the desired folder, and type in console:
-#   clear && ls -lh | awk -f sumFilesSize.awk
+# Prints the sum of files sizes in a folder.
 
 BEGIN {
   size = 0;
