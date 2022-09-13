@@ -10,3 +10,6 @@ To make it work, copy this file into the desired folder, and type in console:
 ```sh
 clear && ls -lh | awk -f sumFilesSize.awk
 ```
+
+## [3.awk](https://github.com/facundolaffont/awk-scripts/blob/main/3.awk)
+Backslashes whitespaces.
