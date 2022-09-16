@@ -1,6 +1,3 @@
-# 2.awk.
-# Prints the sum of files sizes in a folder.
-
 BEGIN {
   size = 0;
   letterIndex = 0;
